@@ -1,0 +1,24 @@
+// Fonts
+// @import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.btn-round-lg{
+    border-radius: 22.5px;
+    }
+    .btn-round{
+    border-radius: 17px;
+    }
+    .btn-round-sm{
+    border-radius: 50%;
+    }
+    .btn-round-xs{
+    border-radius: 11px;
+    padding-left: 10px;
+    padding-right: 10px;
+    }
+    
